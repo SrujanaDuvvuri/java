@@ -1,0 +1,8 @@
+com\mtc\app\Test.class
+com\mtc\vo\Product.class
+com\mtc\dao\ProductNameClassRowMapper.class
+Test.class
+com\mtc\config\AppConfig.class
+com\mtc\dao\IProductDAO.class
+com\mtc\dao\ProductDAO.class
+com\mtc\dao\ProductRowMapper.class
